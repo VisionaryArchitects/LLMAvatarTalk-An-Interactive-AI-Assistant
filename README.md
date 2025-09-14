@@ -33,6 +33,22 @@ Click the thumbnail below to watch the demo on YouTube:
 - Unreal Engine & Metahuman
   - [Unreal Engine & Metahuman Step-by-step Tutorial](./docs/UE/UE_Tutorial.md)
 
+## Setup Guides
+
+📚 **Choose Your Setup Guide:**
+
+### 🚀 [Quick Start Guide](./docs/QUICK_START_GUIDE.md)
+For experienced users who want a condensed setup process (30-60 minutes)
+
+### 📖 [Complete Setup Guide](./docs/COMPLETE_SETUP_GUIDE.md) 
+**⭐ RECOMMENDED for first-time users**  
+Extremely detailed step-by-step instructions covering everything from prerequisites to testing (2-4 hours)
+
+### 🔧 Individual Component Guides:
+- [Enhanced RIVA Tutorial](./docs/RIVA/RIVA_Tutorial.md) - Speech recognition and text-to-speech
+- [Enhanced Audio2Face Tutorial](./docs/Audio2Face/Audio2Face_Tutorial_Enhanced.md) - Facial animation setup
+- [Enhanced Unreal Engine Tutorial](./docs/UE/UE_Tutorial_Enhanced.md) - MetaHuman and Live Link configuration
+
 ## Installation
 Tested Environment: Windows 11 & Python 3.9
 
